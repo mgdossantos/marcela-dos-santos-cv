@@ -40,7 +40,6 @@ Passionate about software quality, automation, and delivering reliable engineeri
 ### **Tools & Tech**
 - Git, GitHub  
 - Unix/Linux  
-- Docker (basic)  
 - JIRA  
 - Selenium (foundational)  
 - Test case design • SDLC • STLC  
@@ -50,7 +49,7 @@ Passionate about software quality, automation, and delivering reliable engineeri
 ## 📂 Additional Resources
 
 - **Markdown CV:** [Marcela_Dos_Santos_CV.md](./Marcela_Dos_Santos_CV.md)  
-- **Cover Letter Template:** [./extras/cover_letter_template.md](./extras/cover_letter_template.md)
+- **Markdown Cover Letter:** [./extras/Cover Letter – Monteal Robot.pdf](./extras/Cover Letter – Monteal Robot.pdf)
 
 ---
 

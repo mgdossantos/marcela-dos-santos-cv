@@ -29,7 +29,6 @@ Test Automation Engineer with strong expertise in **Python-based automation**, *
 ### **Tools & Frameworks**
 - Git, GitHub, GitHub Actions  
 - Linux/Unix  
-- Docker (basic)  
 - JIRA  
 - Selenium (foundational knowledge)  
 - Robot Framework (basic)  
