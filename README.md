@@ -1,8 +1,11 @@
 # Marcela dos Santos – Test Automation Engineer
 
-**Location:** Montréal, QC  
+**Location:** Montréal, QC 
+
 **Email:** profmarcelasantos@gmail.com  
+
 **LinkedIn:** https://www.linkedin.com/in/marceladossantos/
+
 **GitHub:**  https://github.com/mgdossantos
 
 ---
@@ -10,6 +13,7 @@
 ## 👋 About Me
 
 Test Automation Engineer specializing in **Python, API automation, CI/CD**, and **BDD (Gherkin)**.  
+
 Experience in designing automated test strategies and building scalable verification pipelines for complex software and robotics systems.
 
 Passionate about software quality, automation, and delivering reliable engineering solutions.
