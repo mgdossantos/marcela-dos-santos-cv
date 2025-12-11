@@ -49,7 +49,7 @@ Passionate about software quality, automation, and delivering reliable engineeri
 ## 📂 Additional Resources
 
 - **Markdown CV:** [Marcela_Dos_Santos_CV.md](./Marcela_Dos_Santos_CV.md)  
-- **Cover Letter:** [./extras/Cover_Letter_MontealRobot.pdf](./extras/Cover_Letter_MontealRobot.pdf)
+- **Cover Letter:** [Cover Letter - Montreal Robot](./extras/Cover_Letter_MontealRobot.pdf)
 
 ---
 
